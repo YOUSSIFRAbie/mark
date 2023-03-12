@@ -1,0 +1,21 @@
+@keyframes bottom {
+  0%, 50%, 100% {
+    margin-top: 60px;
+  }
+
+  25%, 75% {
+    margin-top: 30px;
+  }
+}
+@keyframes about-an {
+  0%, 100% {
+    /* width: calc(40% - 10px);
+    max-width: calc(100% - 10px); */
+    margin-top: 0;
+  }
+  50% {
+    /* width: 40%;
+    max-width: 100%; */
+    margin-top: 50px;
+  }
+}
